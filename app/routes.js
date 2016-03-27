@@ -25,7 +25,7 @@ function getTotal(res){
         if(total[0] == undefined){
             res.json(0);
         }else{
-            res.json(total[0].total);
+            res.json(total[0].total * 1.075);
         }
 
     });
