@@ -1,9 +1,9 @@
 {
-  "name"         : "node-todo",
+  "name"         : "node-food",
   "version"      : "0.0.1",
-  "description"  : "Simple todo application.",
+  "description"  : "Simple food application.",
   "main"         : "server.js",
-  "author"       : "Scotch",
+  "author"       : ["Scotch","Giridhar"],
   "dependencies" : {
     "express"         : "~4.13.4",
     "mongoose"        : "~3.8.13",
